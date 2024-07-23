@@ -1,6 +1,6 @@
 # AluraBooks
 
-![AluraBooks](../alurabooks/images/alurabooksphoto.png)
+![AluraBooks](https://github.com/user-attachments/assets/9c998ea8-2165-4d8d-a5ec-87fa68b78c27)
 
 Bem-vindo ao AluraBooks, o site definitivo para a venda de livros voltados para programadores. Aqui você encontrará uma vasta seleção de livros para aprimorar suas habilidades em programação e desenvolvimento de software.
 
