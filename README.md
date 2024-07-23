@@ -11,14 +11,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **HTML**: Utilizado para estruturar o conteúdo do site.
 - **CSS**: Utilizado para estilizar e melhorar a apresentação visual do site.
 
-## Funcionalidades
-
-- **Catálogo de Livros**: Navegue por uma ampla variedade de livros sobre diversas linguagens de programação e tecnologias.
-- **Busca por Livros**: Encontre rapidamente o livro que você está procurando com a funcionalidade de busca.
-- **Detalhes do Livro**: Veja informações detalhadas sobre cada livro, incluindo autor, descrição e preço.
-- **Carrinho de Compras**: Adicione livros ao seu carrinho de compras para uma experiência de compra conveniente.
-- **Checkout Seguro**: Finalize suas compras com segurança através do nosso sistema de pagamento integrado.
-
 ## Como Executar o Projeto
 
 1. Clone este repositório em sua máquina local.
