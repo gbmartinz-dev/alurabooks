@@ -5,6 +5,12 @@ hr {
 .rodape {
     background-color: var(--branco);
     padding: 1em;
-    text-align: center;
-    line-height: 1.5em;
+}
+
+@media screen and (min-width: 1024px) {
+    .rodape {
+        display: flex;
+        justify-content: space-around;
+    }
+    
 }
