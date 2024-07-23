@@ -18,6 +18,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
    git clone https://github.com/gbmartinz-dev/alurabooks.git
 
 2. Navegue até o diretório do projeto.<br>
+    ```bash
     cd AluraBooks
 
 3. Abra o arquivo `index.html` no seu navegador preferido para visualizar o site.
